@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=IntelliJ IDEA
+Exec=/home/desktop/idea-IC-232.10072.27/bin/idea.sh
+Icon=/home/desktop/idea-IC-232.10072.27/bin/idea.png
+Type=Application
+Categories=Development;IDE;
+Terminal=false
